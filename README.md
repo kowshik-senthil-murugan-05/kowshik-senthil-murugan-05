@@ -32,7 +32,7 @@ I build reliable backend systems, write clean code, and design production-ready 
 - Continuous improvement: I use tests, CI pipelines and containerization to ensure reliable delivery.
 
 ## 📫 Contact
-- **LinkedIn:** [https://www.linkedin.com/in/your-linkedin  ](https://www.linkedin.com/in/kowshik-senthil-murugan/)
+- **LinkedIn:** (https://www.linkedin.com/in/kowshik-senthil-murugan/)
 - **Email:** kowshikeswaran97@gmail.com
 - **Portfolio / Resume:** [Link to resume or drive]
 
